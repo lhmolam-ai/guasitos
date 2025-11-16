@@ -1,17 +1,23 @@
 {
   "users": [
     {
-      "username": "esteban",
-      "password": "dayanis",
-      "name": "Yulei Esteban Charlot Poll",
-      "phone": "+5355138257",
+      "username": "dayanis",
+      "password": "Dps2020*",
+      "name": "Dayanis",
       "role": "user"
     }
   ],
   "urgentes": [],
   "zonas": [],
-  "zonitas": [],
-  "intercambios": [],
-  "propiedades": [],
-  "lastUpdated": "2025-11-16T18:43:58.303Z"
+  "zonitas": [
+    {
+      "id": 1763318649897,
+      "title": "Alfombras",
+      "businessName": "Alfombras",
+      "description": "Jesús del Sol % 13 y 14 este San Justo",
+      "products": [],
+      "image": "👨‍🔧"
+    }
+  ],
+  "lastUpdated": "2025-11-16T18:44:09.926Z"
 }
