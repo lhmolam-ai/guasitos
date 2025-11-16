@@ -13,6 +13,13 @@
       "name": "Damian Perez Guilarte",
       "phone": "+5352109867",
       "role": "user"
+    },
+    {
+      "username": "esteban",
+      "password": "dayanis",
+      "name": "Yulei Esteban  Charlot Poll",
+      "phone": "+5355138257",
+      "role": "user"
     }
   ],
   "urgentes": [
@@ -102,5 +109,5 @@
       "status": "active"
     }
   ],
-  "lastUpdated": "2025-11-16T21:18:12.192Z"
+  "lastUpdated": "2025-11-16T21:21:25.296Z"
 }
