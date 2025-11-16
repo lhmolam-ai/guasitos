@@ -1,22 +1,30 @@
 {
+  "users": [
+    {
+      "username": "admin",
+      "password": "cuba123",
+      "name": "Administrador",
+      "role": "admin"
+    }
+  ],
   "urgentes": [
     {
       "id": 1,
-      "title": "Corte de Agua",
-      "description": "Corte programado en el centro de 8 AM a 4 PM.",
+      "title": "Corte de Agua Programado",
+      "description": "Corte programado en el centro de la ciudad de 8 AM a 4 PM para mantenimiento del sistema.",
       "image": "🚨",
       "author": "Administración",
-      "date": "16/11/2023, 10:30:00",
+      "date": "15/11/2025, 12:00:00",
       "views": 15,
       "likes": 3
     },
     {
       "id": 2,
-      "title": "Evento Cultural",
-      "description": "Festival de música en la Plaza de la Revolución.",
+      "title": "Festival Cultural",
+      "description": "Gran festival de música y arte en la Plaza de la Revolución este fin de semana.",
       "image": "🎉",
       "author": "Cultura Local",
-      "date": "16/11/2023, 09:15:00",
+      "date": "15/11/2025, 12:00:00",
       "views": 28,
       "likes": 8
     }
@@ -24,14 +32,14 @@
   "zonas": [
     {
       "id": 1,
-      "title": "7 Sur",
+      "title": "Mercado 7 Sur",
       "businessName": "Mercado 7 Sur",
-      "description": "Calle 7 Sur",
+      "description": "Calle 7 Sur entre 2 y 4 Norte",
       "products": [
         {
           "id": 1,
-          "name": "Plátanos",
-          "price": "10 CUP",
+          "name": "Plátanos Maduros",
+          "price": "15 CUP",
           "quality": {
             "star5": 5,
             "star4": 2,
@@ -44,8 +52,8 @@
         },
         {
           "id": 2,
-          "name": "Tomates",
-          "price": "15 CUP",
+          "name": "Tomates Criollos",
+          "price": "20 CUP",
           "quality": {
             "star5": 3,
             "star4": 3,
@@ -65,11 +73,11 @@
       "id": 1,
       "title": "Juan el Reparador",
       "businessName": "Juan el Reparador",
-      "description": "Cerca de la Plaza, reparaciones diarias",
+      "description": "Servicios de reparación cerca del parque central",
       "products": [
         {
           "id": 1,
-          "name": "Reparación de zapatos",
+          "name": "Reparación de calzado",
           "price": "50 CUP",
           "quality": {
             "star5": 4,
@@ -80,24 +88,16 @@
           },
           "searches": 6,
           "image": null
-        },
-        {
-          "id": 2,
-          "name": "Venta de frutas",
-          "price": "10 CUP",
-          "quality": {
-            "star5": 3,
-            "star4": 2,
-            "star3": 0,
-            "star2": 0,
-            "star1": 0
-          },
-          "searches": 4,
-          "image": null
         }
       ],
       "image": "👨‍🔧"
     }
   ],
-  "lastUpdated": "2023-11-16T10:30:00.000Z"
+  "githubConfig": {
+    "token": "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",
+    "repoOwner": "lhmolam-ai",
+    "repoName": "guasitos",
+    "filePath": "guasitos.json"
+  },
+  "lastUpdated": "2025-11-15T21:08:00.000Z"
 }
