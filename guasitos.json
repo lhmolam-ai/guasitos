@@ -1,14 +1,17 @@
 {
   "users": [
     {
-      "username": "dayanis",
-      "password": "Dps2020*",
-      "name": "Dayanis",
+      "username": "esteban",
+      "password": "dayanis",
+      "name": "Yulei Esteban Charlot Poll",
+      "phone": "+5355138257",
       "role": "user"
     }
   ],
   "urgentes": [],
   "zonas": [],
   "zonitas": [],
-  "lastUpdated": "2025-11-16T18:41:14.189Z"
+  "intercambios": [],
+  "propiedades": [],
+  "lastUpdated": "2025-11-16T18:43:58.303Z"
 }
