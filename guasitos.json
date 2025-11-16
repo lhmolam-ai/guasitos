@@ -14,80 +14,13 @@
     }
   ],
   "urgentes": [
-    {
-      "id": 1,
-      "title": "Corte de Agua Programado",
-      "description": "Corte programado en el centro de la ciudad de 8 AM a 4 PM para mantenimiento del sistema.",
-      "image": "ð¨",
-      "author": "AdministraciÃ³n",
-      "date": "16/11/2025, 7:32:32",
-      "views": 15,
-      "likes": 3
-    }
+   
   ],
   "zonas": [
-    {
-      "id": 1,
-      "title": "Mercado 7 Sur",
-      "businessName": "Mercado 7 Sur",
-      "description": "Calle 7 Sur entre 2 y 4 Norte",
-      "products": [
-        {
-          "id": 1,
-          "name": "PlÃ¡tanos Maduros",
-          "price": "15 CUP",
-          "quality": {
-            "star5": 5,
-            "star4": 2,
-            "star3": 1,
-            "star2": 0,
-            "star1": 2
-          },
-          "searches": 10,
-          "image": null
-        },
-        {
-          "id": 2,
-          "name": "Tomates Criollos",
-          "price": "20 CUP",
-          "quality": {
-            "star5": 3,
-            "star4": 3,
-            "star3": 0,
-            "star2": 0,
-            "star1": 0
-          },
-          "searches": 5,
-          "image": null
-        }
-      ],
-      "image": "ðª"
-    }
+   
   ],
   "zonitas": [
-    {
-      "id": 1,
-      "title": "Juan el Reparador",
-      "businessName": "Juan el Reparador",
-      "description": "Servicios de reparaciÃ³n cerca del parque central",
-      "products": [
-        {
-          "id": 1,
-          "name": "ReparaciÃ³n de calzado",
-          "price": "50 CUP",
-          "quality": {
-            "star5": 4,
-            "star4": 1,
-            "star3": 0,
-            "star2": 0,
-            "star1": 0
-          },
-          "searches": 6,
-          "image": null
-        }
-      ],
-      "image": "ð¨âð§"
-    }
+    
   ],
   "lastUpdated": "2025-11-16T16:11:41.329Z"
 }
