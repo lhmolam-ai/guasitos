@@ -5,6 +5,12 @@
       "password": "HASHED_VALUE",
       "name": "Administrador",
       "role": "admin"
+    },
+    {
+      "username": "toni",
+      "password": "123",
+      "name": "toni",
+      "role": "user"
     }
   ],
   "urgentes": [
@@ -12,8 +18,8 @@
       "id": 1,
       "title": "Corte de Agua Programado",
       "description": "Corte programado en el centro de la ciudad de 8 AM a 4 PM para mantenimiento del sistema.",
-      "image": "🚨",
-      "author": "Administración",
+      "image": "ð¨",
+      "author": "AdministraciÃ³n",
       "date": "16/11/2025, 7:32:32",
       "views": 15,
       "likes": 3
@@ -28,7 +34,7 @@
       "products": [
         {
           "id": 1,
-          "name": "Plátanos Maduros",
+          "name": "PlÃ¡tanos Maduros",
           "price": "15 CUP",
           "quality": {
             "star5": 5,
@@ -55,7 +61,7 @@
           "image": null
         }
       ],
-      "image": "🏪"
+      "image": "ðª"
     }
   ],
   "zonitas": [
@@ -63,11 +69,11 @@
       "id": 1,
       "title": "Juan el Reparador",
       "businessName": "Juan el Reparador",
-      "description": "Servicios de reparación cerca del parque central",
+      "description": "Servicios de reparaciÃ³n cerca del parque central",
       "products": [
         {
           "id": 1,
-          "name": "Reparación de calzado",
+          "name": "ReparaciÃ³n de calzado",
           "price": "50 CUP",
           "quality": {
             "star5": 4,
@@ -80,8 +86,8 @@
           "image": null
         }
       ],
-      "image": "👨‍🔧"
+      "image": "ð¨âð§"
     }
   ],
-  "lastUpdated": "2025-11-16T12:32:59.606Z"
+  "lastUpdated": "2025-11-16T16:10:39.542Z"
 }
