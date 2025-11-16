@@ -1,7 +1,7 @@
 {
   "users": [
     {
-      "username": "admin",
+      "username": "guantanamo",
       "password": "cuba123",
       "name": "Administrador",
       "role": "admin"
@@ -14,7 +14,7 @@
       "description": "Corte programado en el centro de la ciudad de 8 AM a 4 PM para mantenimiento del sistema.",
       "image": "🚨",
       "author": "Administración",
-      "date": "15/11/2025, 12:00:00",
+      "date": "16/11/2025, 7:32:32",
       "views": 15,
       "likes": 3
     },
@@ -24,7 +24,7 @@
       "description": "Gran festival de música y arte en la Plaza de la Revolución este fin de semana.",
       "image": "🎉",
       "author": "Cultura Local",
-      "date": "15/11/2025, 12:00:00",
+      "date": "16/11/2025, 7:32:32",
       "views": 28,
       "likes": 8
     }
@@ -93,8 +93,5 @@
       "image": "👨‍🔧"
     }
   ],
-  "githubConfig": {
-    "token": "GIT_HUB_TOKEN"
-  },
-  "lastUpdated": "2025-11-15T21:08:00.000Z"
+  "lastUpdated": "2025-11-16T12:32:59.606Z"
 }
