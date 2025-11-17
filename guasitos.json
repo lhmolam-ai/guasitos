@@ -1,9 +1,17 @@
 {
   "users": [
-    
+    {
+      "username": "admin",
+      "password": "dayanis",
+      "name": "Administrador",
+      "phone": "+53520000",
+      "role": "user"
+    }
   ],
   "urgentes": [],
   "zonas": [],
   "zonitas": [],
-  "lastUpdated": "2025-11-16T22:28:15.092Z"
+  "intercambios": [],
+  "propiedades": [],
+  "lastUpdated": "2025-11-17T03:01:19.094Z"
 }
