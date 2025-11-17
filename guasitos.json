@@ -17,6 +17,16 @@
   ],
   "urgentes": [
     {
+      "id": 1763380581124,
+      "title": "Hola Habana",
+      "description": "Sigue a to actriz favorita",
+      "image": "📰",
+      "author": "Administrador",
+      "date": "17/11/2025, 6:56:21",
+      "views": 0,
+      "likes": 0
+    },
+    {
       "id": 1763351697807,
       "title": "Reportan inundaciones en Baracoa ante crecida del rÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­o Miel",
       "description": "La crecida del rÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­o Miel a causa de las lluvias que han golpeado a Baracoa, en GuantÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¡namo, durante las ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂºltimas horas, causaron inundaciones en zonas bajas de la primada de Cuba, segÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂºn reportes en redes sociales.",
@@ -84,5 +94,5 @@
   "zonitas": [],
   "intercambios": [],
   "propiedades": [],
-  "lastUpdated": "2025-11-17T11:54:34.986Z"
+  "lastUpdated": "2025-11-17T11:56:21.127Z"
 }
