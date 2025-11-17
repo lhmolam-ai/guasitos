@@ -56,7 +56,7 @@
           "quality": {
             "star5": 1,
             "star4": 0,
-            "star3": 0,
+            "star3": 1,
             "star2": 0,
             "star1": 0
           },
@@ -84,5 +84,5 @@
   "zonitas": [],
   "intercambios": [],
   "propiedades": [],
-  "lastUpdated": "2025-11-17T06:50:23.710Z"
+  "lastUpdated": "2025-11-17T06:53:52.900Z"
 }
