@@ -1,12 +1,6 @@
 {
   "users": [
-    {
-      "username": "yecharlot",
-      "password": "yecharlot",
-      "name": "Administrador",
-      "role": "admin",
-      "phone": ""
-    }
+    
   ],
   "urgentes": [],
   "zonas": [],
